@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Flush App",
+    "image": "https://imgur.com/A8NYxAA.png",
+    "description": "A website I helped design and develop for Flush startup. Made companies login/signup page, as well as other pages for comapny site",
+    "tags": ["react", "html", "css"],
+    "source_code": "",
+    "demo": "https://flushapp.app/"
+  },
+  {
+    "id": 2,
+    "name": "Twitter Project",
+    "image": "https://imgur.com/tAZotn3.png",
+    "description": "Created a full stack project of Twitter app. User is able to create posts, edit and delete posts, as well as update posts",
+    "tags": ["html", "node", "express", "mysql", "seqelize"],
+    "source_code": "https://github.com/ZohaibA99/TwitterProject",
+    "demo": "https://www.pcbcupid.com/"
+  },
+  {
+    "id": 3,
+    "name": "VSCode Portfolio",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "tags": ["next", "css-modules"],
+    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
+    "demo": "http://vscode-portfolio.vercel.app/"
+  }
+]
